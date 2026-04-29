@@ -191,6 +191,10 @@ To understand overall business performance.
 * November and December showed peak seasonal sales
 * Furniture had high sales but weak profitability
 
+
+
+<img width="1367" height="786" alt="Overview " src="https://github.com/user-attachments/assets/94d9abf6-1c67-4b34-8af4-8aeb564062c9" />
+
 ---
 
 # Page 2 — Profit Leakage Analysis
@@ -210,6 +214,8 @@ To identify where profit is leaking.
 Major loss-making product:
 
 **Cubify CubeX 3D Printer**
+<img width="1379" height="759" alt="profitability" src="https://github.com/user-attachments/assets/dae69276-2224-4a32-a949-bbf89c94161a" />
+
 
 ---
 
@@ -234,6 +240,9 @@ To investigate exact orders causing losses.
 * Specific products repeatedly appeared in negative-margin orders
 
 This page demonstrates real business problem solving and root cause analysis.
+
+<img width="1331" height="742" alt="lossorders" src="https://github.com/user-attachments/assets/9fe19fcd-7e6e-41a1-80d2-a7df02ae25e3" />
+
 
 ---
 
